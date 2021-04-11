@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8032: An instance of analyzer Microsoft.EntityFrameworkCore.InternalUsageDiagnosticAnalyzer cannot be created from C:\Users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.4\analyzers\dotnet\cs\Microsoft.EntityFrameworkCore.Analyzers.dll : Could not load file or assembly 'Microsoft.CodeAnalysis, Version=3.7.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified..
+dotnet_diagnostic.CS8032.severity = warning
